@@ -1,4 +1,4 @@
-module github.com/hugokindel/tls-client
+module github.com/hugokindel/tls-client/v2
 
 go 1.20
 
